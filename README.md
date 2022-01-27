@@ -11,3 +11,5 @@
 - python3 script - we add 2 core switches to the topology with S1-3 being access and S4-5 being core)
 - 2 files (base_template) and trunk_port templates
 - apply base to access and trunk to all else from respective files
+
+![gns3](https://github.com/kim6jj/AutomationScriptsPython/blob/84c9d8dae236c49f4c27c926a6a04c5e7d0a8553/gns3.JPG)
